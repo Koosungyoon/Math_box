@@ -8,8 +8,8 @@ def subrator(a, b):
 def multply(a, b):
     return a * b
 
-<<<<<<< HEAD
-=======
-def devide(a, b):
+
+def devide_premium(a, b):
     return a / b
->>>>>>> master
+
+
