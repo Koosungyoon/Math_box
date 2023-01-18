@@ -10,3 +10,6 @@ def multply(a, b):
 
 def devide_new (a,b):
     return a/b
+
+def say_hello():
+    print("hello")
